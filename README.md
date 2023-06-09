@@ -5,7 +5,7 @@ Tiene la posibilidad de editar y eliminar cada cita y que estas queden guardadas
 
 ### Herramientas
 
-Javascript - ReactJS - Vite
+Javascript - ReactJS Vite - Hooks (useState, useEffect) - Tailwind CSS
 
 Deploy: https://react-vet-patients.netlify.app/
 
